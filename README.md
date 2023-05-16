@@ -1,25 +1,5 @@
 # Lab-4-Calidad
 
-UNIVERSIDAD TECNOLÓGICA DE PANAMÁ
-FACULTAD DE INGENIERÍA DE SISTEMAS COMPUTACIONALES
-DEPARTAMENTO DE INGENIERÍA DE SOFTWARE
-LICENCIATURA EN INGENIERÍA DE SOFTWARE
-PROFESOR: MITZI MIRANDA
-
-LABORATORIO TALLER # 4 – PARTE 1
-
-
-I.	OBJETIVOS.
-
-El objetivo del laboratorio es introducir a los alumnos en el manejo de control de versiones utilizando como repositorio GitHub.
-
-II.	CRITERIOS DE EVALUCIÓN
-
-•	El laboratorio será en grupo de 3 estudiantes.
-•	El laboratorio consta de dos partes y esta semana se trabajará la parte 1.
-•	Los alumnos tendrán hasta las 11:59 pm del día martes 16 de mayo para presentar la parte 1 del laboratorio.
-
-
 III.	GENERALES Y DATOS
 
 Grupo:1SF133					Fecha: 16-5-2023
